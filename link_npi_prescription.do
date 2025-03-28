@@ -169,4 +169,7 @@ frame change codes
 import delim "$setdir/pharma_prescriber_network_data_weights.csv", clear
 keep if !missing(opioid_day_suply)
 export delim "$setdir/pharma_prescriber_network_data_weights_onlyopioid.csv", replace // obs
+global setdir "~/Documents/GitHub/ORF387Project"
+import delim "$setdir/pharma_prescriber_network_data_weights_onlyopioid.csv", clear // obs
+
 */
