@@ -1,0 +1,12 @@
+doctor_id,authority_score_normalized,Covered_Recipient_First_Name,Covered_Recipient_Last_Name,Recipient_Zip_Code,Covered_Recipient_Specialty_1,Covered_Recipient_Specialty_2,Covered_Recipient_Specialty_3,Covered_Recipient_Specialty_4,Covered_Recipient_Specialty_5,Covered_Recipient_Specialty_6
+1366563744,0.8394373474518058,DAVID,LICHTEN,19464-5061,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A
+1447454269,0.17605068577478933,MICHAEL,FISHMAN,18960-1551,Allopathic & Osteopathic Physicians|Surgery,N/A,N/A,N/A,N/A,N/A
+1922196724,0.16397418107682812,CHRISTOPHER,DAVIS,19064,Allopathic & Osteopathic Physicians|Family Medicine,N/A,N/A,N/A,N/A,N/A
+1760577324,0.1061973605121041,LEONARD,KAMEN,19027-2220,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A
+1598853301,0.00609870356962923,ROBERT,SING,19064-2225,Allopathic & Osteopathic Physicians|Emergency Medicine|Sports Medicine,N/A,N/A,N/A,N/A,N/A
+1588861710,0.0032252890836111324,JOHN,BABER,15212-4756,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A
+1568424018,0.003216904022139121,GERARD,FOTI,19010,Allopathic & Osteopathic Physicians|Orthopaedic Surgery,N/A,N/A,N/A,N/A,N/A
+1144258138,0.0025350763477523003,PATRICIA,SUTTON,19074-1414,Allopathic & Osteopathic Physicians|Family Medicine,N/A,N/A,N/A,N/A,N/A
+1114189792,0.0023226038978822706,FAISAL,CHAUDHRY,19464-5067,Allopathic & Osteopathic Physicians|Anesthesiology,N/A,N/A,N/A,N/A,N/A
+1669481578,0.002264441609179007,DANIEL,RUBINO,19333,"Allopathic & Osteopathic Physicians|Neuromusculoskeletal Medicine, Sports Medicine",N/A,N/A,N/A,N/A,N/A
+1639175920,0.0022484525138387664,JOSHUA,KRASSEN,18103,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A

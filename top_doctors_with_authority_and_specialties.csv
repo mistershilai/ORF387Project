@@ -1,0 +1,201 @@
+doctor_id,authority_score_normalized,Covered_Recipient_First_Name,Covered_Recipient_Last_Name,Recipient_Zip_Code,Covered_Recipient_Specialty_1,Covered_Recipient_Specialty_2,Covered_Recipient_Specialty_3,Covered_Recipient_Specialty_4,Covered_Recipient_Specialty_5,Covered_Recipient_Specialty_6
+1184643405,1.0,EUGENE,VISCUSI,19107,Allopathic & Osteopathic Physicians|Anesthesiology,N/A,N/A,N/A,N/A,N/A
+1205826674,0.2583434477526645,JOSEPH,ANSWINE,17055,Allopathic & Osteopathic Physicians|Anesthesiology,N/A,N/A,N/A,N/A,N/A
+1598748295,0.2573678175114112,V,RAMESH IYER,19104-4319,Allopathic & Osteopathic Physicians|Pediatrics|Pediatric Cardiology,N/A,N/A,N/A,N/A,N/A
+1366494296,0.021097222993236416,Gene,Levinstein,18102,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1932194701,0.006743781408483939,PHILIP,KIM,19073,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1619165867,0.004500161053661407,SCOTT,PELLO,19142-2036,Allopathic & Osteopathic Physicians|Psychiatry & Neurology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1962502492,0.003575714095548905,MICHAEL,FROST,19002-2310,Allopathic & Osteopathic Physicians|Internal Medicine,N/A,N/A,N/A,N/A,N/A
+1366563744,0.0025092676866941633,DAVID,LICHTEN,19464-5061,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A
+1194721563,0.0021552901725824312,THOMAS,DEGREGORY,15601-9769,Allopathic & Osteopathic Physicians|Family Medicine|Hospice and Palliative Medicine,N/A,N/A,N/A,N/A,N/A
+1588649701,0.0019872370410302267,ASIT,UPADHYAY,17403-2626,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1548366321,0.0015582151261971902,MARCIN,CHWISTEK,18976,Allopathic & Osteopathic Physicians|Internal Medicine|Hematology & Oncology,N/A,N/A,N/A,N/A,N/A
+1508854274,0.0013397006731950246,ROBERT,WILSON,18103-6218,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1548491459,0.001128003325448356,JOHN,AVOLIO,15701,Dental Providers|Dentist|General Practice,N/A,N/A,N/A,N/A,N/A
+1881693109,0.0009985182545542688,KENNETH,SUN,18091,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1760577324,0.00092996546222654,LEONARD,KAMEN,19027-2220,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A
+1538361076,0.0008953024517174218,ERIC,KROPF,19140-5103,Allopathic & Osteopathic Physicians|Orthopaedic Surgery|Sports Medicine,N/A,N/A,N/A,N/A,N/A
+1841226545,0.0008681381614522992,ELMER,YU,19104-3309,Allopathic & Osteopathic Physicians|Psychiatry & Neurology|Addiction Psychiatry,N/A,N/A,N/A,N/A,N/A
+1558361790,0.0007568022026624573,AVNER,GRIVER,18512-2469,Allopathic & Osteopathic Physicians|Pain Medicine|Interventional Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1922196724,0.000695410899124804,CHRISTOPHER,DAVIS,19064,Allopathic & Osteopathic Physicians|Family Medicine,N/A,N/A,N/A,N/A,N/A
+1669460481,0.0006345082386935241,BRUCE,NICHOLSON,18103-6218,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1447454269,0.00046612027405192383,MICHAEL,FISHMAN,18960-1551,Allopathic & Osteopathic Physicians|Surgery,N/A,N/A,N/A,N/A,N/A
+1164488987,0.0004327692726765667,SCOTT,BURKE,18940,Allopathic & Osteopathic Physicians|Internal Medicine|Clinical Cardiac Electrophysiology,N/A,N/A,N/A,N/A,N/A
+1578715454,0.00042996918392452566,GEORGE,COMAS,19001-3720,Allopathic & Osteopathic Physicians|Thoracic Surgery (Cardiothoracic Vascular Surgery),N/A,N/A,N/A,N/A,N/A
+1417948431,0.00039387915112044106,RICHARD,GOLDSTEIN,19047-1233,Allopathic & Osteopathic Physicians|Colon & Rectal Surgery,N/A,N/A,N/A,N/A,N/A
+1487644639,0.00039387915112044106,ANNE MARIE,MARCOUX,19047-1233,Allopathic & Osteopathic Physicians|Colon & Rectal Surgery,N/A,N/A,N/A,N/A,N/A
+1356601405,0.00037158214809492903,ANTHONY,DIMATTEO,15215,Allopathic & Osteopathic Physicians|Urology,N/A,N/A,N/A,N/A,N/A
+1861622532,0.00036629309156329596,MONIQUE,GARY,19438-0907,Allopathic & Osteopathic Physicians|Surgery,N/A,N/A,N/A,N/A,N/A
+1053319467,0.00036629309156329596,LEWIS,GILL,18960-1551,Allopathic & Osteopathic Physicians|Surgery,N/A,N/A,N/A,N/A,N/A
+1023213204,0.00036629309156329596,ERIC,OLIVERO RAMIREZ,18960-1551,Allopathic & Osteopathic Physicians|Surgery,N/A,N/A,N/A,N/A,N/A
+1073502126,0.0003373588411255385,LUCIANO,DIMARCO,17109,Allopathic & Osteopathic Physicians|Surgery,N/A,N/A,N/A,N/A,N/A
+1871713370,0.0003320542539400407,DANIEL,GRUENER,19149,Allopathic & Osteopathic Physicians|Psychiatry & Neurology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1629066329,0.0003312606067463209,DONG,KO,18104-9322,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1336159508,0.00029717642681453707,ALBERT,JANERICH,18705-1013,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A
+1689663775,0.0002642454126000221,Matthew,Davidson,17109-5004,Allopathic & Osteopathic Physicians|Surgery,N/A,N/A,N/A,N/A,N/A
+1275662041,0.00025356359254593956,KERRY,ROSS,19013-3902,Allopathic & Osteopathic Physicians|Surgery,N/A,N/A,N/A,N/A,N/A
+1144290875,0.00025356359254593956,MARY,PATTON,19013,Allopathic & Osteopathic Physicians|Surgery,N/A,N/A,N/A,N/A,N/A
+1720058308,0.00025356359254593956,LINWOOD,HAITH,19013,Allopathic & Osteopathic Physicians|Surgery,N/A,N/A,N/A,N/A,N/A
+1275565582,0.00025128464528163054,CHARLES,OBRIEN,19104,Allopathic & Osteopathic Physicians|Psychiatry & Neurology|Neurology,N/A,N/A,N/A,N/A,N/A
+1285653048,0.00024893865368931034,DAJIE,WANG,19107,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1194731547,0.0002472407854071815,DENNIS,BONNER,19056-2107,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1922131994,0.00022494046308063108,CHRISTOPHER,SNEIDER,17015-7027,Allopathic & Osteopathic Physicians|Surgery,N/A,N/A,N/A,N/A,N/A
+1609940949,0.00018366508073572966,DIANE,D ARDENNE,19085-2112,Allopathic & Osteopathic Physicians|Anesthesiology,N/A,N/A,N/A,N/A,N/A
+1588861710,0.00017522464592884457,JOHN,BABER,15212-4756,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A
+1780767319,0.00017441197482658184,BRIAN,PIERSON,19341-2553,Allopathic & Osteopathic Physicians|Preventive Medicine|Preventive Medicine/Occupational Environmental Medicine,N/A,N/A,N/A,N/A,N/A
+1730147554,0.000165516357342871,TODD,SHATYNSKI,16510-2304,Allopathic & Osteopathic Physicians|Family Medicine,N/A,N/A,N/A,N/A,N/A
+1467423061,0.000165516357342871,KAREN,CROWE,19355-3311,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A
+1902857410,0.0001596050588663399,ASHOK,DEVASENAPATHY,17033-2360,Allopathic & Osteopathic Physicians|Psychiatry & Neurology|Neurology,N/A,N/A,N/A,N/A,N/A
+1861746935,0.0001596050588663399,SAMIR,HADI,17033-2360,Allopathic & Osteopathic Physicians|Radiology|Diagnostic Radiology,N/A,N/A,N/A,N/A,N/A
+1134264708,0.00014966725332941192,GEORGE,WOODY,19129-5526,Allopathic & Osteopathic Physicians|Internal Medicine,N/A,N/A,N/A,N/A,N/A
+1861462798,0.00014913252483444745,JOHN,WRIGHTSON,16105,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1023245883,0.0001438916291759059,STANLEY,IKEZI,18951-1084,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1538328927,0.00014195455076046064,STACI,MULCAHY,18017-9429,Allopathic & Osteopathic Physicians|Family Medicine|Addiction Medicine,N/A,N/A,N/A,N/A,N/A
+1720375793,0.00014072726252405444,SUNIL,CHANDY,19341-2553,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1427011006,0.00013917964321868696,ASHRAF,RAZZAK,16148-7905,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1831214535,0.00013807127614993037,KURT,MORAN,18509,Allopathic & Osteopathic Physicians|Internal Medicine,N/A,N/A,N/A,N/A,N/A
+1275582587,0.00013699693486837882,DAVID,SCHAFFZIN,19047,Allopathic & Osteopathic Physicians|Surgery,N/A,N/A,N/A,N/A,N/A
+1528407392,0.00013245905260486973,SOON,JUNG,18103-6263,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1033111778,0.00013220814863740396,MARK,MITROS,15090-7376,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A
+1902901135,0.00013211197004886813,BETH,COHEN,18301,Allopathic & Osteopathic Physicians|Psychiatry & Neurology|Neurology,N/A,N/A,N/A,N/A,N/A
+1427056555,0.00012775366575263933,RANDALL,SMITH,19114-2853,Allopathic & Osteopathic Physicians|Orthopaedic Surgery,N/A,N/A,N/A,N/A,N/A
+1114102910,0.00012514118829780836,PRABHAKER,GUNDAPPU-REDDY,18103-6263,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1114922945,0.00012503601648293944,Peter,Kowey,19096-3450,Allopathic & Osteopathic Physicians|Internal Medicine|Cardiovascular Disease,N/A,N/A,N/A,N/A,N/A
+1457438178,0.00011929348869828061,CHAND,ROHATGI,18045-8345,Allopathic & Osteopathic Physicians|Surgery,N/A,N/A,N/A,N/A,N/A
+1215955489,0.00011646295068674444,HOWARD,MILLER,16801-6626,Allopathic & Osteopathic Physicians|Urology,N/A,N/A,N/A,N/A,N/A
+1780663229,0.00011646295068674444,CHARLES,DALTON,16801-6626,Allopathic & Osteopathic Physicians|Urology,N/A,N/A,N/A,N/A,N/A
+1639158173,0.00011646295068674444,DAVID,OSELINSKY,16801-6626,Allopathic & Osteopathic Physicians|Urology,N/A,N/A,N/A,N/A,N/A
+1770558413,0.00011312877732905161,SANJAY,SHAH,19002,Allopathic & Osteopathic Physicians|Pain Medicine|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1518056472,0.0001092830057490743,THOMAS,WHITTEN,15601-6494,Allopathic & Osteopathic Physicians|Pain Medicine|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1700913456,0.00010893984173395007,MARK,LODICO,15090-7376,Allopathic & Osteopathic Physicians|Pain Medicine|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1861710980,0.00010347234050876463,BRIAN,SLATER,15301,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1245225473,0.0001020833103235021,AMELIA,TABUENA,19090-2003,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A
+1073771515,0.00010160913523153357,JUNG-WOO,MA,16506-7201,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1922267327,0.00010049516286539655,KEVIN,HIBBARD,15090,Allopathic & Osteopathic Physicians|Pain Medicine|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1275585481,9.842491642009516e-05,SOPHIE,HANNA,16046-2325,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1114273893,9.212687094976717e-05,RONAK,PATEL,19107-4824,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1083607840,9.047591666746831e-05,ALI,YOUSUFUDDIN,17015-9126,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1548380124,8.941395662902601e-05,EILEEN,MANABAT,19107-4824,Allopathic & Osteopathic Physicians|Anesthesiology,N/A,N/A,N/A,N/A,N/A
+1497738934,8.216583448903298e-05,MAHMOOD,NASIR,17801-2338,Allopathic & Osteopathic Physicians|Psychiatry & Neurology|Neurology,N/A,N/A,N/A,N/A,N/A
+1134276736,7.983475894348677e-05,ALEKSANDR,MIKHAYLOVSKIY,15025-3730,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1245271568,7.835765846824668e-05,Joseph,Thomas,16505-4508,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1265893903,7.68112533108696e-05,NEIL,SHUSTERMAN,19041-2028,Allopathic & Osteopathic Physicians|Internal Medicine,N/A,N/A,N/A,N/A,N/A
+1396780409,7.639328879589282e-05,JORGE,RIVERO-BECERRA,15243-1497,Allopathic & Osteopathic Physicians|Pain Medicine|Interventional Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1497754519,7.435835722495809e-05,JEAN,SANTO,17110,Allopathic & Osteopathic Physicians|Internal Medicine,N/A,N/A,N/A,N/A,N/A
+1427080571,7.413270799310375e-05,JOHN,FARRAR,19104-4306,Allopathic & Osteopathic Physicians|Psychiatry & Neurology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1326005786,7.385813690611692e-05,AMER,AKHRASS,15239-1853,Allopathic & Osteopathic Physicians|Pain Medicine|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1538113360,7.351685965157538e-05,LEONARD,BRUNO,19006-6357,Allopathic & Osteopathic Physicians|Neurological Surgery,N/A,N/A,N/A,N/A,N/A
+1548203839,7.33182675008453e-05,UPLEKH,PUREWAL,19114-1011,Allopathic & Osteopathic Physicians|Pain Medicine|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1326081241,7.248339578131696e-05,WILLIAM,SANTORO,19611-2143,Allopathic & Osteopathic Physicians|Family Medicine,N/A,N/A,N/A,N/A,N/A
+1679540140,6.928634215921521e-05,EDUARDO,VIOLAGO,17110-9499,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A
+1275543571,6.861288639654138e-05,JOHN,LAWLESS,18940,Allopathic & Osteopathic Physicians|Family Medicine,N/A,N/A,N/A,N/A,N/A
+1124227103,6.803625773400566e-05,LINDSAY,LEDWICH,15090,Allopathic & Osteopathic Physicians|Internal Medicine|Rheumatology,N/A,N/A,N/A,N/A,N/A
+1982626818,6.617259058587148e-05,NEIL,ANAND,19090-2621,Allopathic & Osteopathic Physicians|Pain Medicine|Interventional Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1679789010,6.492272465219293e-05,JUSTIN,WINAS,19001-3788,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1326023888,6.49070517744922e-05,STEPHANIE,LE,15205,Allopathic & Osteopathic Physicians|Pain Medicine|Interventional Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1437124468,6.348687355388202e-05,TERRENCE,CALDER,17331-1587,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1558351692,6.323996572954678e-05,ALBERTO,CABANTOG,15090,Allopathic & Osteopathic Physicians|Pain Medicine|Interventional Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1841255643,6.203830218308475e-05,LARRY,CHOU,19083,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A
+1750351003,6.135410611505572e-05,BRUCE,SICILIA,17404,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A
+1619975984,6.112258431847685e-05,ANGELA,STUPI,15090,Allopathic & Osteopathic Physicians|Internal Medicine|Rheumatology,N/A,N/A,N/A,N/A,N/A
+1972728145,6.105831298996942e-05,CAROL,LUDOLPH,19006-6924,Allopathic & Osteopathic Physicians|Anesthesiology|Addiction Medicine,N/A,N/A,N/A,N/A,N/A
+1629082763,6.081496382542766e-05,PANKAJ,GARG,19380-6673,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1588638894,6.0798750026048365e-05,PATRICK,FALL,19001-3720,Allopathic & Osteopathic Physicians|Anesthesiology,N/A,N/A,N/A,N/A,N/A
+1982606182,6.044329113550606e-05,JEREMY,JAFFE,19001-3720,Allopathic & Osteopathic Physicians|Pain Medicine|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1245222991,5.985951391225362e-05,Daniel,Coachi,18103-3630,Allopathic & Osteopathic Physicians|Emergency Medicine,N/A,N/A,N/A,N/A,N/A
+1346283637,5.9505114561844136e-05,TONY,KU,19406-1438,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1366795080,5.9367721825449614e-05,PETER,SYKORA,19107-4824,Allopathic & Osteopathic Physicians|Anesthesiology,N/A,N/A,N/A,N/A,N/A
+1578556536,5.925995272394602e-05,BRUCE,KLASKIN,17403-4628,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A
+1083689301,5.8675770999963475e-05,DEBRA,DE ANGELO,17331-1587,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1447419981,5.761839491991012e-05,JESSE,SALLY,15238-2917,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation|Sports Medicine,N/A,N/A,N/A,N/A,N/A
+1770563645,5.752460993866557e-05,GARRETT,DIXON,16323-1345,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A
+1669402111,5.619382748521716e-05,ANNA,MATHEW,15238,Allopathic & Osteopathic Physicians|Preventive Medicine|Occupational Medicine,N/A,N/A,N/A,N/A,N/A
+1801824354,5.565878934568511e-05,ADRIANA,PRAWAK,19083-4539,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation|Sports Medicine,N/A,N/A,N/A,N/A,N/A
+1285847699,5.545853845696595e-05,TIMOTHY,KO,16506-7201,Allopathic & Osteopathic Physicians|Pain Medicine|Interventional Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1205883139,5.52956840514435e-05,BRADLEY,FERRARA,19090,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A
+1174751929,5.522454970454439e-05,PETER,PRYZBYLKOWSKI,19104-4238,Allopathic & Osteopathic Physicians|Pain Medicine|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1952561631,5.4334139426910106e-05,MUHAMMAD,ARIF,16105,Allopathic & Osteopathic Physicians|Pain Medicine|Interventional Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1952398604,5.411095226235994e-05,YASIN,KHAN,18104-9322,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1912907130,5.3725348489481756e-05,JOSEPH,PAZ,18702-6928,Allopathic & Osteopathic Physicians|Pain Medicine|Interventional Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1922158849,5.369141475456581e-05,JAMES,SHETTSLINE,19440,Allopathic & Osteopathic Physicians|Family Medicine,N/A,N/A,N/A,N/A,N/A
+1225144520,5.306627918822164e-05,MICHAEL,DRASS,16602-2415,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1386671436,5.1331820222418496e-05,ROBERT,SALVAGE,19030-2624,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1356375711,5.085730705986987e-05,LISA,NOCERA,19428-4108,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1801810247,4.995390121253462e-05,CHRISTOPHER,DANKMYER,19464-5061,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A
+1205868668,4.9951472475942176e-05,MARIANNE,SANTIONI,18518,Allopathic & Osteopathic Physicians|Internal Medicine|Rheumatology,N/A,N/A,N/A,N/A,N/A
+1366555104,4.98704462096299e-05,JITHENDRA,RAI,16508,Allopathic & Osteopathic Physicians|Pain Medicine|Interventional Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1902824360,4.9548423121459474e-05,LARRY,PLUNDO,15601,Allopathic & Osteopathic Physicians|Family Medicine,N/A,N/A,N/A,N/A,N/A
+1629008172,4.914441945322417e-05,THOMAS,FRANZ,15238,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A
+1497755631,4.8936009935105046e-05,MARK,BELL,18705-1146,Allopathic & Osteopathic Physicians|Pain Medicine|Interventional Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1457470429,4.830714375433975e-05,DOUGLAS,GUGGER,18951-1681,Allopathic & Osteopathic Physicians|Pain Medicine|Interventional Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1174564504,4.77304501717233e-05,ANTHONY,COLANTONIO,16335-2945,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1114185402,4.721234180012042e-05,MARGOT,GEARY,15238-3122,Allopathic & Osteopathic Physicians|Pain Medicine|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1821019175,4.7094403760962246e-05,ROBERT,MEASLEY,19107-5109,Allopathic & Osteopathic Physicians|Internal Medicine|Infectious Disease,N/A,N/A,N/A,N/A,N/A
+1417224684,4.600744069236499e-05,RAMMURTI,MCKENZIE,18951-1087,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1528066180,4.547356655263119e-05,MARC,ADELSHEIMER,15238-2917,Allopathic & Osteopathic Physicians|Pain Medicine|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1730103177,4.520067587325749e-05,WILLIAM,CANO,19464-3292,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A
+1134192610,4.507986571674878e-05,GREGORY,CHAPIS,19464-5061,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A
+1124137088,4.462604982216486e-05,STUART,KAUFFMAN,19152-1918,Allopathic & Osteopathic Physicians|Family Medicine,N/A,N/A,N/A,N/A,N/A
+1598853301,4.391287207187004e-05,ROBERT,SING,19064-2225,Allopathic & Osteopathic Physicians|Emergency Medicine|Sports Medicine,N/A,N/A,N/A,N/A,N/A
+1083614192,4.384611881885114e-05,JOSEPH,STONER,16101-2141,Allopathic & Osteopathic Physicians|Pathology|Anatomic Pathology & Clinical Pathology,N/A,N/A,N/A,N/A,N/A
+1295733301,4.352696615340345e-05,MICHAEL,GUTHRIE,19115-3801,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A
+1669481578,4.3327335072637246e-05,DANIEL,RUBINO,19333,"Allopathic & Osteopathic Physicians|Neuromusculoskeletal Medicine, Sports Medicine",N/A,N/A,N/A,N/A,N/A
+1780738633,4.2331982380347797e-05,MICHAEL,PLATTO,15301-9697,Allopathic & Osteopathic Physicians|Pain Medicine|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1356417166,4.2012751389677126e-05,CARLOS,MARRERO,15650,Allopathic & Osteopathic Physicians|Psychiatry & Neurology|Neurology,N/A,N/A,N/A,N/A,N/A
+1669457982,4.182235685641015e-05,GREGORY,HABIB,15234-1504,Allopathic & Osteopathic Physicians|Orthopaedic Surgery,N/A,N/A,N/A,N/A,N/A
+1316146384,4.181627518492412e-05,ROBERT,MOSES,15065,Allopathic & Osteopathic Physicians|Internal Medicine,N/A,N/A,N/A,N/A,N/A
+1154321891,4.115722892814308e-05,YITZCHOK,KURTZER,18510-2224,Allopathic & Osteopathic Physicians|Internal Medicine,N/A,N/A,N/A,N/A,N/A
+1730147273,4.0904594268309495e-05,ERIC,ROSLONSKI,15904,Allopathic & Osteopathic Physicians|Internal Medicine,N/A,N/A,N/A,N/A,N/A
+1932426566,4.0639997715923484e-05,SAMUEL,GRODOFSKY,18914-3970,Allopathic & Osteopathic Physicians|Anesthesiology,N/A,N/A,N/A,N/A,N/A
+1861494023,4.042199894483817e-05,SCOTT,ROSENTHAL,19136-2786,Allopathic & Osteopathic Physicians|Pain Medicine|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1417994682,4.0378636959252485e-05,RODNEY,BINGHAM,16503-1856,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1275505919,4.029373557791352e-05,MYRON,RODOS,19122-2901,Allopathic & Osteopathic Physicians|Family Medicine,N/A,N/A,N/A,N/A,N/A
+1649276668,3.919130616413899e-05,EVGENIY,SHCHELCHKOV,15301,Allopathic & Osteopathic Physicians|Psychiatry & Neurology|Neurology,N/A,N/A,N/A,N/A,N/A
+1902049695,3.788097668596345e-05,FAROOQ,QURESHI,18951-1084,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1831191089,3.681910288320324e-05,PHILIP,SASSO,19001-3720,Allopathic & Osteopathic Physicians|Pain Medicine|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1932362944,3.6361884310771744e-05,MATTHEW,LODICO,15090-7376,Allopathic & Osteopathic Physicians|Pain Medicine|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1750320461,3.556874149160764e-05,MITESWAR,PUREWAL,19083-5733,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1508184953,3.514203909874027e-05,NICHOLAS,LANCIANO,15904,Allopathic & Osteopathic Physicians|Psychiatry & Neurology|Neurology,N/A,N/A,N/A,N/A,N/A
+1699748459,3.4689047608981976e-05,RICHARD,KIM,15146,Allopathic & Osteopathic Physicians|Internal Medicine|Rheumatology,N/A,N/A,N/A,N/A,N/A
+1124029368,3.387273983523408e-05,SCOTT,LOEV,18951,Allopathic & Osteopathic Physicians|Internal Medicine,N/A,N/A,N/A,N/A,N/A
+1710036926,3.3660333822737146e-05,WILLIAM,BONNER,19030-2624,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A
+1417915810,3.3459251712459855e-05,JAY,MERGAMAN,19446-1259,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1649429986,3.3370602201931287e-05,MELISSA,JORDEN,16502-2716,Allopathic & Osteopathic Physicians|Pain Medicine|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1932107588,3.3120514390475007e-05,PAUL,LIEBER,15238-2917,Allopathic & Osteopathic Physicians|Pain Medicine|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1023174034,3.264091904491743e-05,KENDRICK,DULDULAO,19104-4206,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A
+1992703805,3.2613364109949705e-05,CHEE,WOO,19460,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1750408381,3.2393782850456084e-05,FARHAN,TAHIR,19067-7706,Allopathic & Osteopathic Physicians|Internal Medicine|Rheumatology,N/A,N/A,N/A,N/A,N/A
+1760531545,3.2325263104749447e-05,ZACHARY,HAUSER,19083-4539,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A
+1164644548,3.201817873045484e-05,JASON,BUNDY,19610-2100,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1235154469,3.164802691291409e-05,JASON,ESTRIN,19355-1456,Allopathic & Osteopathic Physicians|Internal Medicine,N/A,N/A,N/A,N/A,N/A
+1942246194,3.15947493896281e-05,MOHAMMAD,YOUNUS,19047,Allopathic & Osteopathic Physicians|Internal Medicine,N/A,N/A,N/A,N/A,N/A
+1841429156,3.14181968156134e-05,MICHAEL,FISHMAN,19010,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1639161961,3.1333043539389494e-05,BRENT,MILLET,18104-9168,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A
+1598056293,3.126374892536929e-05,SHAWN,PURI,19083-5733,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1972984334,3.102098874071246e-05,JASJIT,SEHDEV,19130,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1063633733,3.081372718471649e-05,Thomas,Urbaniak,19067-3037,Allopathic & Osteopathic Physicians|Orthopaedic Surgery,N/A,N/A,N/A,N/A,N/A
+1578710927,3.065539352722426e-05,CATHERINE,SCHOLL GERSON,18464,Allopathic & Osteopathic Physicians|Family Medicine,N/A,N/A,N/A,N/A,N/A
+1205837051,3.052503091675979e-05,MICHAEL,SAUTER,15904,Allopathic & Osteopathic Physicians|Psychiatry & Neurology|Neurology,N/A,N/A,N/A,N/A,N/A
+1164587697,2.9221949013772765e-05,THOMAS,WHALEN,19083,Allopathic & Osteopathic Physicians|Internal Medicine|Rheumatology,N/A,N/A,N/A,N/A,N/A
+1851554927,2.8915773623917033e-05,JOHN PAUL,MALAYIL,17201-4230,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1770966707,2.8490881209591035e-05,NIRMAL,SHAH,19102,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1831353507,2.8442112051435638e-05,NICHOLAS,GROSS,15601-4678,Allopathic & Osteopathic Physicians|Family Medicine,N/A,N/A,N/A,N/A,N/A
+1437288776,2.8356246416965874e-05,THOMAS,HALEY,19464-5061,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A
+1053687053,2.7918832715148605e-05,NIRAV,PAREKH,19107,Allopathic & Osteopathic Physicians|Pain Medicine|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1902109762,2.7864041381700813e-05,Kavita,Goyal,15801-1464,Allopathic & Osteopathic Physicians|Internal Medicine,N/A,N/A,N/A,N/A,N/A
+1932366945,2.7796759776689215e-05,MICHAEL,PLUNDO,15601-4678,Allopathic & Osteopathic Physicians|Family Medicine,N/A,N/A,N/A,N/A,N/A
+1093986697,2.775788302375166e-05,BENJAMIN,NEWTON,19064,Allopathic & Osteopathic Physicians|Family Medicine,N/A,N/A,N/A,N/A,N/A
+1831197946,2.7679560875485996e-05,M YASSER,GOUDA,19115-3801,Allopathic & Osteopathic Physicians|Pain Medicine|Interventional Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1578823605,2.7500419648235806e-05,ERICA,PATEL,18103-6206,Allopathic & Osteopathic Physicians|Anesthesiology,N/A,N/A,N/A,N/A,N/A
+1508987892,2.722431735810425e-05,RONNEN,ABRAMOV,19107-5127,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1316042591,2.70983794105189e-05,JOHN,MOSKAITIS,19030-2624,Allopathic & Osteopathic Physicians|Internal Medicine,N/A,N/A,N/A,N/A,N/A
+1245285741,2.7060679250749006e-05,PRIYA,SWAMY,19026-2201,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A
+1861484545,2.6957933322683956e-05,CHARLES,NORELLI,18017-7307,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A
+1730167776,2.6883076894436e-05,KENNETH,CHOQUETTE,18103-6205,Allopathic & Osteopathic Physicians|Pain Medicine|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1427021351,2.6350097549441578e-05,SHAILEN,JALALI,19083-5733,Allopathic & Osteopathic Physicians|Pain Medicine|Interventional Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1144267790,2.5968821531413667e-05,EUGENE,HARASYM,18444-7947,Allopathic & Osteopathic Physicians|Family Medicine,N/A,N/A,N/A,N/A,N/A
+1902805252,2.5639972408690106e-05,STEVEN,MORTAZAVI,18020-9412,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1407267099,2.5309776005445416e-05,BENJAMIN,KAPLAN,19114-2853,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,N/A,N/A,N/A,N/A,N/A
+1205028149,2.5273351388815858e-05,JONATHAN,BEATTY,19147-1269,Allopathic & Osteopathic Physicians|Psychiatry & Neurology|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1740287127,2.488209686536904e-05,MILTON,KLEIN,15108-2024,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation|Pain Medicine,N/A,N/A,N/A,N/A,N/A
+1912968702,2.4846760362009096e-05,ROBERT,SCHORSCHINSKY,19606-9023,Allopathic & Osteopathic Physicians|Family Medicine,N/A,N/A,N/A,N/A,N/A
